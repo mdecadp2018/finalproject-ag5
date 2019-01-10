@@ -247,7 +247,7 @@ Created by [cadp2018_ag5](https://github.com/mdecadp2018/finalproject-ag5)
 </t>
 <t tx="leo.20180827201621.17"># 前言
 
-六足機構有是由18個自由度所構成的,而自由度會影響工作空間的靈活性,就算是[一個自由度](https://jibaoviewer.com/project/58c0c60604aaceaa3d7b1723),靈活性也還是相當好.
+六足機構是由18個自由度所構成的,而自由度會影響工作空間的靈活性,就算是[一個自由度](https://jibaoviewer.com/project/58c0c60604aaceaa3d7b1723),靈活性也還是相當好.
 &lt;p&gt;機構的特性有剛性、容易產生、高靈活性的工作空間.能大量應用在生活之中.
 
 </t>
