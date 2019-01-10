@@ -21,21 +21,101 @@
 <v t="leo.20180827201621.6" a="E"><vh>body</vh>
 <v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
 <v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180827201621.11" a="E"><vh>快捷鍵</vh>
+<v t="leo.20180827201621.11"><vh>快捷鍵</vh>
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
-<v t="leo.20180827201621.13"><vh>各式內容引用範例</vh>
-<v t="leo.20180827201621.14" a="E"><vh>導入數學符號與方程式</vh>
-<v t="leo.20180827201621.15"><vh>LaTeX 格式方程式</vh></v>
+<v t="leo.20180827201621.13"><vh>期末專題報告</vh>
+<v t="leo.20180827201621.14" a="E"><vh>摘要</vh>
+<v t="leo.20180827201621.15"><vh>內容</vh></v>
 </v>
-<v t="leo.20180827201621.16" a="E"><vh>導入縮排程式碼</vh>
-<v t="leo.20180827201621.17"><vh>引用程式碼</vh></v>
+<v t="leo.20180827201621.16" a="E"><vh>前言</vh>
+<v t="leo.20180827201621.17"><vh>內容</vh></v>
 </v>
-<v t="leo.20180827201621.18" a="E"><vh>導入影片</vh>
+<v t="leo.20180827201621.18"><vh>使用軟體</vh>
 <v t="leo.20180827201621.19"><vh>iframe 導入影片</vh></v>
+</v>
+<v t="leo.20190111005400.1" a="E"><vh>工作分配</vh>
+<v t="leo.20190111005400.2"><vh>iframe 導入影片</vh></v>
+</v>
+</v>
+<v t="leo.20190111001042.1"><vh>零件</vh>
+<v t="leo.20190111001042.2" a="E"><vh>第一張</vh>
+<v t="leo.20190111001042.3"><vh>內容</vh></v>
+</v>
+<v t="leo.20190111001042.4" a="E"><vh>第二張</vh>
+<v t="leo.20190111001042.5"><vh>內容</vh></v>
+</v>
+<v t="leo.20190111001042.6" a="E"><vh>第三張</vh>
+<v t="leo.20190111001042.7"><vh>內容</vh></v>
+</v>
+<v t="leo.20190111002509.1" a="E"><vh>第四張</vh>
+<v t="leo.20190111002509.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20190111002511.1" a="E"><vh>第五張</vh>
+<v t="leo.20190111002511.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20190111002658.1" a="E"><vh>第六張</vh>
+<v t="leo.20190111002658.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20190111002701.1" a="E"><vh>第七張</vh>
+<v t="leo.20190111002701.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20190111002703.1" a="E"><vh>第八張</vh>
+<v t="leo.20190111002703.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20190111003013.1" a="E"><vh>第九張</vh>
+<v t="leo.20190111003013.2"><vh>內容</vh></v>
+</v>
+<v t="leo.20190111003014.1" a="E"><vh>第十張</vh>
+<v t="leo.20190111003014.2"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20190111005806.1"><vh>Week11</vh>
+<v t="leo.20190111005806.2" a="E"><vh>第一張</vh>
+<v t="leo.20190111005806.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20190111005810.1"><vh>Week 12</vh>
+<v t="leo.20190111005810.2" a="E"><vh>第一張</vh>
+<v t="leo.20190111005810.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20190111005813.1"><vh>Week 13</vh>
+<v t="leo.20190111005813.2" a="E"><vh>第一張</vh>
+<v t="leo.20190111005813.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20190111010638.1"><vh>Week 14</vh>
+<v t="leo.20190111010638.2" a="E"><vh>第一張</vh>
+<v t="leo.20190111010638.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20190111010639.1"><vh>Week 15</vh>
+<v t="leo.20190111010639.2" a="E"><vh>第一張</vh>
+<v t="leo.20190111010639.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20190111010641.1" a="E"><vh>Week 16</vh>
+<v t="leo.20190111010641.2" a="E"><vh>第一張</vh>
+<v t="leo.20190111010641.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20190111011201.1" a="E"><vh>Week 17</vh>
+<v t="leo.20190111011201.2" a="E"><vh>第一張</vh>
+<v t="leo.20190111011201.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20190111011310.1" a="E"><vh>Week 18</vh>
+<v t="leo.20190111011310.2" a="E"><vh>第一張</vh>
+<v t="leo.20190111011310.3"><vh>內容</vh></v>
+</v>
+</v>
+<v t="leo.20190111011527.1"><vh>結論</vh>
+<v t="leo.20190111011527.2" a="E"><vh>第一張</vh>
+<v t="leo.20190111011527.3"><vh>內容</vh></v>
 </v>
 </v>
 </v>
@@ -171,13 +251,9 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 						
 </t>
-<t tx="leo.20180827201621.15"># 數學符號與方程式
+<t tx="leo.20180827201621.15"># 摘要
 
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
-
-$$I = \int \rho R^{2} dV$$
-</t>
+熟悉 GitHub 倉儲之協同，研究行走機構做動方式，自行在Onshape 上設計行走機構再轉至 V-rep 模擬。</t>
 <t tx="leo.20180827201621.16">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -189,33 +265,14 @@ $$I = \int \rho R^{2} dV$$
 
 						
 </t>
-<t tx="leo.20180827201621.17">## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-@language python
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
+<t tx="leo.20180827201621.17"># 前言
 
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
+在小空間或是路面崎嶇的地方，人類無法順利進入時，
+就必須仰賴機械進入，利用程式使其自動行走，設計外型簡
+易、輕量化及能克服各種地形，可以依照需求大小改變尺
+寸。
+ 希望未來能將苦力交付給機械，減少不必要的傷亡。
+
 </t>
 <t tx="leo.20180827201621.18">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -226,12 +283,10 @@ make.start()
 
 						
 </t>
-<t tx="leo.20180827201621.19">## 使用 iframe 導入影片
+<t tx="leo.20180827201621.19"># 軟體
 
-### 導入影片 template
-
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-</t>
+* Onshape
+* V-rep</t>
 <t tx="leo.20180827201621.2"></t>
 <t tx="leo.20180827201621.3">@language xml
 @tabwidth -4
@@ -326,5 +381,359 @@ make.start()
 
 						
 </t>
+<t tx="leo.20190111001042.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190111001042.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190111001042.3"># 零件
+* 腳架
+
+&lt;a href="https://mdecadp2018.github.io/finalproject-ag5/images/%E8%85%B3%E6%9E%B6.png"&gt;&lt;img src="https://mdecadp2018.github.io/finalproject-ag5/images/%E8%85%B3%E6%9E%B6.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;width="200" height="200"&gt;&lt;/a&gt;</t>
+<t tx="leo.20190111001042.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190111001042.5">* 腳架-2
+
+&lt;a href="https://mdecadp2018.github.io/finalproject-ag5/images/%E8%85%B3%E6%9E%B62.png"&gt;&lt;img src="https://mdecadp2018.github.io/finalproject-ag5/images/%E8%85%B3%E6%9E%B62.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;width="200" height="200"&gt;&lt;/a&gt;
+
+</t>
+<t tx="leo.20190111001042.6">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111001042.7">* 馬達座
+
+&lt;a href="https://mdecadp2018.github.io/finalproject-ag5/images/%E9%A6%AC%E9%81%94%E5%BA%A7.png"&gt;&lt;img src="https://mdecadp2018.github.io/finalproject-ag5/images/%E9%A6%AC%E9%81%94%E5%BA%A7.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;width="200" height="200"&gt;&lt;/a&gt;
+</t>
+<t tx="leo.20190111002509.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111002509.2">* 馬達蓋
+
+&lt;a href="https://mdecadp2018.github.io/finalproject-ag5/images/%E9%A6%AC%E9%81%94%E8%93%8B.png"&gt;&lt;img src="https://mdecadp2018.github.io/finalproject-ag5/images/%E9%A6%AC%E9%81%94%E8%93%8B.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;width="200" height="200"&gt;&lt;/a&gt;
+</t>
+<t tx="leo.20190111002511.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111002511.2">* 銷
+
+&lt;a href="https://mdecadp2018.github.io/finalproject-ag5/images/%E9%8A%B7.png"&gt;&lt;img src="https://mdecadp2018.github.io/finalproject-ag5/images/%E9%8A%B7.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;width="200" height="200"&gt;&lt;/a&gt;
+</t>
+<t tx="leo.20190111002658.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111002658.2">* 腳-組合圖
+
+&lt;a href="https://mdecadp2018.github.io/finalproject-ag5/images/%E8%85%B3-%E7%B5%84%E5%90%88%E5%9C%96.png"&gt;&lt;img src="https://mdecadp2018.github.io/finalproject-ag5/images/%E8%85%B3-%E7%B5%84%E5%90%88%E5%9C%96.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;width="200" height="200"&gt;&lt;/a&gt;
+</t>
+<t tx="leo.20190111002701.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111002701.2">* 主體
+
+&lt;a href="https://mdecadp2018.github.io/finalproject-ag5/images/%E4%B8%BB%E9%AB%94.png"&gt;&lt;img src="https://mdecadp2018.github.io/finalproject-ag5/images/%E4%B8%BB%E9%AB%94.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;width="200" height="200"&gt;&lt;/a&gt;
+</t>
+<t tx="leo.20190111002703.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111002703.2">* 連桿
+
+&lt;a href="https://mdecadp2018.github.io/finalproject-ag5/images/%E9%80%A3%E6%A1%BF.png"&gt;&lt;img src="https://mdecadp2018.github.io/finalproject-ag5/images/%E9%80%A3%E6%A1%BF.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;width="200" height="200"&gt;&lt;/a&gt;
+</t>
+<t tx="leo.20190111003013.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111003013.2">* 背蓋
+
+&lt;a href="https://mdecadp2018.github.io/finalproject-ag5/images/%E8%83%8C%E8%93%8B.png"&gt;&lt;img src="https://mdecadp2018.github.io/finalproject-ag5/images/%E8%83%8C%E8%93%8B.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;width="200" height="200"&gt;&lt;/a&gt;
+</t>
+<t tx="leo.20190111003014.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111003014.2">* 組合圖
+
+&lt;a href="https://mdecadp2018.github.io/finalproject-ag5/images/%E7%B5%84%E5%90%88%E5%9C%96.png"&gt;&lt;img src="https://mdecadp2018.github.io/finalproject-ag5/images/%E7%B5%84%E5%90%88%E5%9C%96.png" title="source: imgur.com" /&gt;&lt;/a&gt;
+&lt;width="200" height="200"&gt;&lt;/a&gt;
+</t>
+<t tx="leo.20190111005400.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190111005400.2"># 工作分配
+
+40623129 陳威誠 網誌維護及V-rep模擬
+&lt;p&gt;40623136 黃子軒 繪圖及設計&lt;/p&gt;
+&lt;p&gt;40623138 黃柏諺 繪圖及設計&lt;/p&gt;
+&lt;p&gt;40623141 何立翔 V-rep模擬&lt;/p&gt;
+&lt;p&gt;40623145 林暉恩 Final Report 更新、V-rep模擬&lt;/p&gt;
+40623147 廖彥霖 繪圖及設計</t>
+<t tx="leo.20190111005806.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190111005806.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190111005806.3"># Week 11
+
+* 討論期末專題題目
+* 建立協同倉儲
+* 選出組長
+</t>
+<t tx="leo.20190111005810.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190111005810.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190111005810.3"># Week 12
+
+* 分配工作
+* 搜尋行走機構相關資料
+* 繪製零件
+* 更新PDF、網站</t>
+<t tx="leo.20190111005813.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190111005813.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190111005813.3"># Week 13
+
+* 繪製主體
+* 組合腳之零件
+</t>
+<t tx="leo.20190111010638.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190111010638.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190111010638.3"># Week 14
+
+* 練習V-rep
+* 零件繪製完成</t>
+<t tx="leo.20190111010639.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190111010639.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190111010639.3"># Week 15
+
+* 零件組合完畢
+* 將STL圖檔匯入至V-rep
+</t>
+<t tx="leo.20190111010641.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190111010641.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190111010641.3"># Week 16
+
+* 發現問題：連接銷時尺寸與孔太過相近，造成干涉無法將旋轉軸插入
+* 更改錯誤，重新匯入V-rep裡進行模擬
+</t>
+<t tx="leo.20190111011201.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190111011201.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190111011201.3"># Week 17
+
+* V-rep模擬
+* 進行修改確認</t>
+<t tx="leo.20190111011310.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190111011310.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190111011310.3"># Week 18
+
+* 期末考週
+* 小組報告
+</t>
+<t tx="leo.20190111011527.1">&lt;section&gt;
+@others
+&lt;/section&gt;
+
+</t>
+<t tx="leo.20190111011527.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20190111011527.3"># 結論
+
+我們做的專題是行走機構，行走機構可以使用在很多地方，舉例來說：可用於救難的時候，地震時可能地形的限制，救難人員體型過大無法進入，房屋脆弱時，有隨時都會崩塌的可能，生命很可貴，不能還沒救到人自己就先遇難，這時候就可以派上六足機器人，可以探索一些較狹小的空間，如果機器人被壓壞就派一台出去就可以了，一個機器人的價格大概幾千幾萬，但是一個人的生命是無價的。</t>
 </tnodes>
 </leo_file>

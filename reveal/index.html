@@ -75,12 +75,10 @@ Created by [KMOLab](http://lab.kmol.info/)
 <section data-markdown>
     <script type="text/template">
 <!-- 請注意, @others 不可以內縮 -->
-# 數學符號與方程式
+# 摘要
 
-Inline math equations go in like so: $\omega = d\phi / dt$. Display
-math should get its own line and be put in in double-dollarsigns:
+熟悉 GitHub 倉儲之協同，研究行走機構做動方式，自行在Onshape 上設計行走機構再轉至 V-rep 模擬。
 
-$$I = \int \rho R^{2} dV$$
     </script>
 </section>
 
@@ -90,32 +88,14 @@ $$I = \int \rho R^{2} dV$$
 <section data-markdown>
     <script type="text/template">
 <!-- 請注意, @others 不可以內縮 -->
-## 利用 Markdown 寫投影片
-以下利用 Markdown 格式展示 Python 程式碼:
-```
-# use threading and subprocess to threading the make process
-import os
-import subprocess
-import threading
+# 前言
 
-def domake():
-    
-    path = "../exposed/api/exposed"
-    ubuntu = "../Ubuntu"
-    
-    # create obj path
-    
-    if not os.path.exists(path+"/../obj"):
-        os.makedirs(path+"/../obj")
-    
-    subprocess.call(["make", "clean"], cwd=path)
-    subprocess.call("make", cwd=path)
-    subprocess.call(["cp", "{libslvs.so, _slvs.so, slvs.py}", ubuntu], cwd=path)
-    subprocess.call(["python3", "circle_ex.py"], cwd=path+"/"+ubuntu)
-    
-make = threading.Thread(target=domake)
-make.start()
-```
+在小空間或是路面崎嶇的地方，人類無法順利進入時，
+就必須仰賴機械進入，利用程式使其自動行走，設計外型簡
+易、輕量化及能克服各種地形，可以依照需求大小改變尺
+寸。
+ 希望未來能將苦力交付給機械，減少不必要的傷亡。
+
     </script>
 </section>
 
@@ -124,13 +104,299 @@ make.start()
 						
 <section data-markdown>
     <script type="text/template">
-## 使用 iframe 導入影片
+# 軟體
 
-### 導入影片 template
+* Onshape
+* V-rep
 
-<iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     </script>
 </section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+# 工作分配
+
+40623129 陳威誠 網誌維護及V-rep模擬
+<p>40623136 黃子軒 繪圖及設計</p>
+<p>40623138 黃柏諺 繪圖及設計</p>
+<p>40623141 何立翔 V-rep模擬</p>
+<p>40623145 林暉恩 Final Report 更新、V-rep模擬</p>
+40623147 廖彥霖 繪圖及設計
+
+    </script>
+</section>
+
+
+						
+</section>
+
+<section>
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+# 零件
+* 腳架
+
+<a href="https://mdecadp2018.github.io/finalproject-ag5/images/%E8%85%B3%E6%9E%B6.png"><img src="https://mdecadp2018.github.io/finalproject-ag5/images/%E8%85%B3%E6%9E%B6.png" title="source: imgur.com" /></a>
+<width="200" height="200"></a>
+
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+* 腳架-2
+
+<a href="https://mdecadp2018.github.io/finalproject-ag5/images/%E8%85%B3%E6%9E%B62.png"><img src="https://mdecadp2018.github.io/finalproject-ag5/images/%E8%85%B3%E6%9E%B62.png" title="source: imgur.com" /></a>
+<width="200" height="200"></a>
+
+    </script>
+</section>
+
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+* 馬達座
+
+<a href="https://mdecadp2018.github.io/finalproject-ag5/images/%E9%A6%AC%E9%81%94%E5%BA%A7.png"><img src="https://mdecadp2018.github.io/finalproject-ag5/images/%E9%A6%AC%E9%81%94%E5%BA%A7.png" title="source: imgur.com" /></a>
+<width="200" height="200"></a>
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+* 馬達蓋
+
+<a href="https://mdecadp2018.github.io/finalproject-ag5/images/%E9%A6%AC%E9%81%94%E8%93%8B.png"><img src="https://mdecadp2018.github.io/finalproject-ag5/images/%E9%A6%AC%E9%81%94%E8%93%8B.png" title="source: imgur.com" /></a>
+<width="200" height="200"></a>
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+* 銷
+
+<a href="https://mdecadp2018.github.io/finalproject-ag5/images/%E9%8A%B7.png"><img src="https://mdecadp2018.github.io/finalproject-ag5/images/%E9%8A%B7.png" title="source: imgur.com" /></a>
+<width="200" height="200"></a>
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+* 腳-組合圖
+
+<a href="https://mdecadp2018.github.io/finalproject-ag5/images/%E8%85%B3-%E7%B5%84%E5%90%88%E5%9C%96.png"><img src="https://mdecadp2018.github.io/finalproject-ag5/images/%E8%85%B3-%E7%B5%84%E5%90%88%E5%9C%96.png" title="source: imgur.com" /></a>
+<width="200" height="200"></a>
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+* 主體
+
+<a href="https://mdecadp2018.github.io/finalproject-ag5/images/%E4%B8%BB%E9%AB%94.png"><img src="https://mdecadp2018.github.io/finalproject-ag5/images/%E4%B8%BB%E9%AB%94.png" title="source: imgur.com" /></a>
+<width="200" height="200"></a>
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+* 連桿
+
+<a href="https://mdecadp2018.github.io/finalproject-ag5/images/%E9%80%A3%E6%A1%BF.png"><img src="https://mdecadp2018.github.io/finalproject-ag5/images/%E9%80%A3%E6%A1%BF.png" title="source: imgur.com" /></a>
+<width="200" height="200"></a>
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+* 背蓋
+
+<a href="https://mdecadp2018.github.io/finalproject-ag5/images/%E8%83%8C%E8%93%8B.png"><img src="https://mdecadp2018.github.io/finalproject-ag5/images/%E8%83%8C%E8%93%8B.png" title="source: imgur.com" /></a>
+<width="200" height="200"></a>
+    </script>
+</section>
+
+
+						
+<section data-markdown>
+    <script type="text/template">
+* 組合圖
+
+<a href="https://mdecadp2018.github.io/finalproject-ag5/images/%E7%B5%84%E5%90%88%E5%9C%96.png"><img src="https://mdecadp2018.github.io/finalproject-ag5/images/%E7%B5%84%E5%90%88%E5%9C%96.png" title="source: imgur.com" /></a>
+<width="200" height="200"></a>
+    </script>
+</section>
+
+
+						
+</section>
+
+<section>
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+# Week 11
+
+* 討論期末專題題目
+* 建立協同倉儲
+* 選出組長
+    </script>
+</section>
+
+
+
+						
+</section>
+
+<section>
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+# Week 12
+
+* 分配工作
+* 搜尋行走機構相關資料
+* 繪製零件
+* 更新PDF、網站
+
+    </script>
+</section>
+
+
+
+						
+</section>
+
+<section>
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+# Week 13
+
+* 繪製主體
+* 組合腳之零件
+    </script>
+</section>
+
+
+
+						
+</section>
+
+<section>
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+# Week 14
+
+* 練習V-rep
+* 零件繪製完成
+
+    </script>
+</section>
+
+
+
+						
+</section>
+
+<section>
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+# Week 15
+
+* 零件組合完畢
+* 將STL圖檔匯入至V-rep
+    </script>
+</section>
+
+
+
+						
+</section>
+
+<section>
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+# Week 16
+
+* 發現問題：連接銷時尺寸與孔太過相近，造成干涉無法將旋轉軸插入
+* 更改錯誤，重新匯入V-rep裡進行模擬
+    </script>
+</section>
+
+
+
+						
+</section>
+
+<section>
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+# Week 17
+
+* V-rep模擬
+* 進行修改確認
+
+    </script>
+</section>
+
+
+
+						
+</section>
+
+<section>
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+# Week 18
+
+* 期末考週
+* 小組報告
+    </script>
+</section>
+
+
+
+						
+</section>
+
+<section>
+<section data-markdown>
+    <script type="text/template">
+<!-- 請注意, @others 不可以內縮 -->
+# 結論
+
+我們做的專題是行走機構，行走機構可以使用在很多地方，舉例來說：可用於救難的時候，地震時可能地形的限制，救難人員體型過大無法進入，房屋脆弱時，有隨時都會崩塌的可能，生命很可貴，不能還沒救到人自己就先遇難，這時候就可以派上六足機器人，可以探索一些較狹小的空間，如果機器人被壓壞就派一台出去就可以了，一個機器人的價格大概幾千幾萬，但是一個人的生命是無價的。
+
+    </script>
+</section>
+
 
 
 						
